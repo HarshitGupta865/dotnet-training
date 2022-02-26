@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d39d9c88-3f90-4b89-9f73-4d295db01509": {
+      "ProjectGuid": "d39d9c88-3f90-4b89-9f73-4d295db01509",
+      "DisplayName": "DelegateExample2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

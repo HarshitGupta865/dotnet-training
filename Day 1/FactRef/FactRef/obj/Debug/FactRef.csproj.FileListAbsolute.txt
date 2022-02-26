@@ -1,0 +1,7 @@
+D:\Learning Dotnet\FactRef\FactRef\bin\Debug\FactRef.exe.config
+D:\Learning Dotnet\FactRef\FactRef\bin\Debug\FactRef.exe
+D:\Learning Dotnet\FactRef\FactRef\bin\Debug\FactRef.pdb
+D:\Learning Dotnet\FactRef\FactRef\obj\Debug\FactRef.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\FactRef\FactRef\obj\Debug\FactRef.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\FactRef\FactRef\obj\Debug\FactRef.exe
+D:\Learning Dotnet\FactRef\FactRef\obj\Debug\FactRef.pdb

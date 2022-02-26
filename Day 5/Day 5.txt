@@ -1,0 +1,89 @@
+Nullable Types : 
+
+Employ employ = null; 
+
+int a=null;
+
+null allows you to store missing or inapplicable information, 
+so sometimes for variable also we need to store null values, in C# we have concept of nullable types, 
+that which used to store null values to the variables. 
+
+You can define nullable type by using ? also
+
+int a=12;
+
+int[] x= new int[]{12,4};
+
+I need to capture data at runtime, as what data it comes as it will be value type or reference type or custom type or array or list or any, then we need the help of var keyword. 
+
+var is basically used without specifying any .NET type, as it converts data automatically to that. 
+
+The type of the variable can be defined at compile time and the value to be initilized automatically. 
+
+var you cannot pass as a parameter. 
+
+Indexers : 
+
+C# Indexers are usualy known as smart arrays, Indexer is a class property, that allows you to accesss a member variable of class using the feature of an array, 
+
+
+<modifier> <return type> this [argslist] 
+{
+   get 
+   {
+     ...
+   }
+   set 
+   {
+     ...
+   }
+}
+
+Indexers are created by using this keyword
+
+Indexers are identified by signature
+
+Indexers can be assigned or accessed by using index position
+
+Indexers cannot be static 
+
+indexers can be implemented by using get and set 
+
+indexers cannot contains ref or out parameters
+
+indexers cannot be overloaded. 
+
+
+class Demo {
+
+     static void Main() {
+	Demo obj1 = new Demo();
+	Demo obj2 = new Demo();
+	Demo obj3 = new Demo3();
+
+	obj3 = obj1; 
+
+	
+     }
+}
+
+Garbage collection is very imp. technique in .NET framework to free the unused managed code objects in the memory and free the space to the process. 
+
+Advantages : 
+_____________
+
+   No worry about memory managed as unused memory locations are cleaned up and ready used for other objects
+
+   Allocate memory on heap memory efficiently
+    
+   Provides memory safety by making sure that object cannot use the content of other object. 
+
+GC.GetTotalMemory(false) => Ensures please print the total no.of memory used and 
+dont wait for garbase collector to run.
+
+GC.GetTotalMemory(true) => Ensures plesae print the total.no.of memory used and 
+wait the method to collect the garbage. 
+
+
+
+

@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 6\GenericExample1\GenericExample1\bin\Debug\GenericExample1.exe.config
+D:\Learning Dotnet\Day 6\GenericExample1\GenericExample1\bin\Debug\GenericExample1.exe
+D:\Learning Dotnet\Day 6\GenericExample1\GenericExample1\bin\Debug\GenericExample1.pdb
+D:\Learning Dotnet\Day 6\GenericExample1\GenericExample1\obj\Debug\GenericExample1.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 6\GenericExample1\GenericExample1\obj\Debug\GenericExample1.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 6\GenericExample1\GenericExample1\obj\Debug\GenericExample1.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 6\GenericExample1\GenericExample1\obj\Debug\GenericExample1.exe
+D:\Learning Dotnet\Day 6\GenericExample1\GenericExample1\obj\Debug\GenericExample1.pdb

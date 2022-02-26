@@ -1,0 +1,274 @@
+switch...case : used to define menu-driven programs. 
+
+switch(choice) {
+  case choice1 :
+	statement(s);
+	break;
+  case choice2 : 
+	statement(s);
+	break;
+  case choice3 : 
+	statement(s);
+	break;
+  ...
+  ...
+  default : 
+	statement(s);
+	break;
+}
+
+
+Looping Control Structures : 
+_____________________________
+
+while loop : 
+
+This loop executes all the statements repeatedly until the condition remains true, if the condition remains false, then it comes out of the loop. 
+
+For every loop, basically there are 3 phases as 
+
+	(i) Initialization 
+	
+	(ii) Condition
+
+	(iii) Increment/Decrement 
+
+Initialization performed at the beginning of the loop.
+
+Condition performed at the conditional part of the loop. 
+
+Increment/Decrement performed before closing the loop. 
+
+while(condition) {
+statement(s);
+}
+
+There are 2 types of memories as 
+
+	(i) Stack
+
+	(ii) HEAP 
+
+*** value types will be stored in STACK memory, and reference types will be stored
+in HEAP memory ***
+
+
+forloop : Used to execute statements repeatedly until the condition remains true. 
+
+for(initialization;condition;increment/decrement) {
+statement(s);
+}
+
+Arrays : 
+_______
+
+An array is the finite ordered set of homogeneous elements, means all the elements belongs to same data type. 
+
+int[] a = new int[]{2,6,33,5,44};
+
+here 
+
+a[0]=2
+a[1]=6;
+a[2]=33
+a[3]=5
+a[4]=44
+
+ public void Show()
+        {
+            int[] a = new int[] { 5, 23, 66, 26, 88 };
+            //for(int i=0;i<a.Length;i++)
+            //{
+            //    Console.WriteLine(a[i]);
+            //}
+
+            foreach(int i in a)
+            {
+                Console.WriteLine(i);
+            }
+        }
+
+How foreach loop will work internally, because i dont have 
+
+initializatio
+condtion
+increment
+
+In above loop, at first i points to the first element in array A, after processing
+first element, it checks next element is there or not by using HasMoreElements() method, 
+as foreach loop takes Enumerator collection in that, 
+
+if HashMoreElements() returns true, it moves to the next element by using NextElement(), it repeats
+as soon as HasMoreElements() returns true. 
+
+
+Types of Parameters : 
+______________________
+
+There are 3 types of parameters as
+
+1) in : Used for input purpose only
+
+2) ref : Can be used for input/output (call by reference)
+
+3) out : If you want to return more than one value to the corresponding method, then we need the help of
+		out parameter. 
+
+
+
+
+void show(string name) {
+...
+...
+...
+}
+
+show();
+show("Anubhav");
+show("Anubhav","Aman");
+show("Aman","Sakshi","Anubhav");
+
+
+Method Overloading : 
+
+The concept of using the same method name w.r.t. different data types or different parameters known as 
+method overloading. Here, the method name must be same, but no.of parameters or type of parameters we are passing here are different. 
+
+
+class Demo 
+{
+   static void Main() 
+   {
+      int x;
+      Console.WriteLine("x value is  " +x);
+   }
+}
+
+class Demo 
+{
+   int x;
+   static void Main() 
+   {
+	Console.WriteLine(new Demo().x);
+   }
+}
+
+
+class Demo 
+{
+   static void Main() 
+   {
+       char ch='A';
+       int x=ch;
+       Console.WriteLIne(x);
+   }
+}
+
+class Demo 
+{
+    static void Main()
+    {
+        int x=12;
+	int y= x++ + ++x + ++x + x++;
+		12 + 14 + 15 + 15 
+	Console.WriteLine(x);
+    }
+}
+
+
+class Demo 
+{
+    static void Main() 
+    {
+      int b=53;
+      byte x=b;
+      Console.WriteLine(x);
+    }
+}
+
+class Demo
+{
+    static void Main() 
+    {
+        byte b=125;
+        b+=10;
+	Console.WriteLine(b);
+    }
+}
+
+
+Multiplication of 2 numbers (100 digit * 100 digit) need to print exact value 
+
+Tomorrows Topics 
+_________________
+
+
+   -> Boxing and Unboxig
+   -> Constructors
+   -> static
+   -> default methods
+   -> extension methods
+   -> inheritance
+   -> base keyword
+   -> abstract class
+   -> interface
+   -> shadowing
+   -> Exception Handling 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

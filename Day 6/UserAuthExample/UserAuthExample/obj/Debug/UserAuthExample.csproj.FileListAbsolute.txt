@@ -1,0 +1,7 @@
+C:\Users\harsh\source\repos\UserAuthExample\UserAuthExample\bin\Debug\UserAuthExample.exe.config
+C:\Users\harsh\source\repos\UserAuthExample\UserAuthExample\bin\Debug\UserAuthExample.exe
+C:\Users\harsh\source\repos\UserAuthExample\UserAuthExample\bin\Debug\UserAuthExample.pdb
+C:\Users\harsh\source\repos\UserAuthExample\UserAuthExample\obj\Debug\UserAuthExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\harsh\source\repos\UserAuthExample\UserAuthExample\obj\Debug\UserAuthExample.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\UserAuthExample\UserAuthExample\obj\Debug\UserAuthExample.exe
+C:\Users\harsh\source\repos\UserAuthExample\UserAuthExample\obj\Debug\UserAuthExample.pdb

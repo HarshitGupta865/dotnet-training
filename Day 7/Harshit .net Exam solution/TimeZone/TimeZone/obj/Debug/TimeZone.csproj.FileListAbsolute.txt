@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 5\TimeZone\TimeZone\bin\Debug\TimeZone.exe.config
+D:\Learning Dotnet\Day 5\TimeZone\TimeZone\bin\Debug\TimeZone.exe
+D:\Learning Dotnet\Day 5\TimeZone\TimeZone\bin\Debug\TimeZone.pdb
+D:\Learning Dotnet\Day 5\TimeZone\TimeZone\obj\Debug\TimeZone.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 5\TimeZone\TimeZone\obj\Debug\TimeZone.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 5\TimeZone\TimeZone\obj\Debug\TimeZone.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 5\TimeZone\TimeZone\obj\Debug\TimeZone.exe
+D:\Learning Dotnet\Day 5\TimeZone\TimeZone\obj\Debug\TimeZone.pdb

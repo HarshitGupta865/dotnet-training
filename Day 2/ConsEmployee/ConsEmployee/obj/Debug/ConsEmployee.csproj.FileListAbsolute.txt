@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 2\ConsEmployee\ConsEmployee\bin\Debug\ConsEmployee.exe.config
+D:\Learning Dotnet\Day 2\ConsEmployee\ConsEmployee\bin\Debug\ConsEmployee.exe
+D:\Learning Dotnet\Day 2\ConsEmployee\ConsEmployee\bin\Debug\ConsEmployee.pdb
+D:\Learning Dotnet\Day 2\ConsEmployee\ConsEmployee\obj\Debug\ConsEmployee.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 2\ConsEmployee\ConsEmployee\obj\Debug\ConsEmployee.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 2\ConsEmployee\ConsEmployee\obj\Debug\ConsEmployee.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 2\ConsEmployee\ConsEmployee\obj\Debug\ConsEmployee.exe
+D:\Learning Dotnet\Day 2\ConsEmployee\ConsEmployee\obj\Debug\ConsEmployee.pdb

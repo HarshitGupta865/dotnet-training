@@ -1,0 +1,7 @@
+D:\Learning Dotnet\Day 2\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+D:\Learning Dotnet\Day 2\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+D:\Learning Dotnet\Day 2\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+D:\Learning Dotnet\Day 2\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 2\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 2\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+D:\Learning Dotnet\Day 2\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

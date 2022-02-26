@@ -1,0 +1,7 @@
+D:\Learning Dotnet\Day 3\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+D:\Learning Dotnet\Day 3\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+D:\Learning Dotnet\Day 3\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+D:\Learning Dotnet\Day 3\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 3\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 3\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+D:\Learning Dotnet\Day 3\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

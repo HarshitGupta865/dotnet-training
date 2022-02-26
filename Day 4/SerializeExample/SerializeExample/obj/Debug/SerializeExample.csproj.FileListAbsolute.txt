@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 4\SerializeExample\SerializeExample\bin\Debug\SerializeExample.exe.config
+D:\Learning Dotnet\Day 4\SerializeExample\SerializeExample\bin\Debug\SerializeExample.exe
+D:\Learning Dotnet\Day 4\SerializeExample\SerializeExample\bin\Debug\SerializeExample.pdb
+D:\Learning Dotnet\Day 4\SerializeExample\SerializeExample\obj\Debug\SerializeExample.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 4\SerializeExample\SerializeExample\obj\Debug\SerializeExample.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 4\SerializeExample\SerializeExample\obj\Debug\SerializeExample.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 4\SerializeExample\SerializeExample\obj\Debug\SerializeExample.exe
+D:\Learning Dotnet\Day 4\SerializeExample\SerializeExample\obj\Debug\SerializeExample.pdb

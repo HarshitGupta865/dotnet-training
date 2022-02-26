@@ -1,0 +1,7 @@
+D:\Learning Dotnet\Day 2\InterfaceConcept\InterfaceConcept\bin\Debug\InterfaceConcept.exe.config
+D:\Learning Dotnet\Day 2\InterfaceConcept\InterfaceConcept\bin\Debug\InterfaceConcept.exe
+D:\Learning Dotnet\Day 2\InterfaceConcept\InterfaceConcept\bin\Debug\InterfaceConcept.pdb
+D:\Learning Dotnet\Day 2\InterfaceConcept\InterfaceConcept\obj\Debug\InterfaceConcept.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 2\InterfaceConcept\InterfaceConcept\obj\Debug\InterfaceConcept.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 2\InterfaceConcept\InterfaceConcept\obj\Debug\InterfaceConcept.exe
+D:\Learning Dotnet\Day 2\InterfaceConcept\InterfaceConcept\obj\Debug\InterfaceConcept.pdb

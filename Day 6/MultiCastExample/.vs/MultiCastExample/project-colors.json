@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42c00ae1-22fb-46ff-b253-f8a7069bedf2": {
+      "ProjectGuid": "42c00ae1-22fb-46ff-b253-f8a7069bedf2",
+      "DisplayName": "MultiCastExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

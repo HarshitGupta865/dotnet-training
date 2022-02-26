@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 2\BoxConcept\BoxConcept\bin\Debug\BoxConcept.exe.config
+D:\Learning Dotnet\Day 2\BoxConcept\BoxConcept\bin\Debug\BoxConcept.exe
+D:\Learning Dotnet\Day 2\BoxConcept\BoxConcept\bin\Debug\BoxConcept.pdb
+D:\Learning Dotnet\Day 2\BoxConcept\BoxConcept\obj\Debug\BoxConcept.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 2\BoxConcept\BoxConcept\obj\Debug\BoxConcept.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 2\BoxConcept\BoxConcept\obj\Debug\BoxConcept.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 2\BoxConcept\BoxConcept\obj\Debug\BoxConcept.exe
+D:\Learning Dotnet\Day 2\BoxConcept\BoxConcept\obj\Debug\BoxConcept.pdb

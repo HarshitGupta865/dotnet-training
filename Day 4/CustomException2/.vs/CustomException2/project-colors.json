@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdc555f1-5de3-4aab-a18e-6543e197713d": {
+      "ProjectGuid": "cdc555f1-5de3-4aab-a18e-6543e197713d",
+      "DisplayName": "CustomException2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 2\StaticKeywordDemo2\StaticKeywordDemo2\bin\Debug\StaticKeywordDemo2.exe.config
+D:\Learning Dotnet\Day 2\StaticKeywordDemo2\StaticKeywordDemo2\bin\Debug\StaticKeywordDemo2.exe
+D:\Learning Dotnet\Day 2\StaticKeywordDemo2\StaticKeywordDemo2\bin\Debug\StaticKeywordDemo2.pdb
+D:\Learning Dotnet\Day 2\StaticKeywordDemo2\StaticKeywordDemo2\obj\Debug\StaticKeywordDemo2.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 2\StaticKeywordDemo2\StaticKeywordDemo2\obj\Debug\StaticKeywordDemo2.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 2\StaticKeywordDemo2\StaticKeywordDemo2\obj\Debug\StaticKeywordDemo2.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 2\StaticKeywordDemo2\StaticKeywordDemo2\obj\Debug\StaticKeywordDemo2.exe
+D:\Learning Dotnet\Day 2\StaticKeywordDemo2\StaticKeywordDemo2\obj\Debug\StaticKeywordDemo2.pdb

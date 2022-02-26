@@ -1,0 +1,29 @@
+enums are used to represent group of constants. 
+
+enum WeekDays 
+{
+  SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY
+}
+
+enum LeaveStatus 
+{
+   PENDING,ACCEPTED,REJECTED
+}
+
+enum OrderStaus 
+{
+   PENDING, ACCEPTED, REJECTED
+}
+
+
+Employ
+
+    empno
+    name
+    gender
+    dept
+    desig
+    basic
+
+
+

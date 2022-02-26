@@ -1,0 +1,7 @@
+D:\Learning Dotnet\Day 5\StackExample\StackExample\bin\Debug\StackExample.exe.config
+D:\Learning Dotnet\Day 5\StackExample\StackExample\bin\Debug\StackExample.exe
+D:\Learning Dotnet\Day 5\StackExample\StackExample\bin\Debug\StackExample.pdb
+D:\Learning Dotnet\Day 5\StackExample\StackExample\obj\Debug\StackExample.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 5\StackExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 5\StackExample\StackExample\obj\Debug\StackExample.exe
+D:\Learning Dotnet\Day 5\StackExample\StackExample\obj\Debug\StackExample.pdb

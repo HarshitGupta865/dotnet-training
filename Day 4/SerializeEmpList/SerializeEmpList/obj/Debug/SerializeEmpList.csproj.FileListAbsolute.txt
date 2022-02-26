@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 4\SerializeEmpList\SerializeEmpList\bin\Debug\SerializeEmpList.exe.config
+D:\Learning Dotnet\Day 4\SerializeEmpList\SerializeEmpList\bin\Debug\SerializeEmpList.exe
+D:\Learning Dotnet\Day 4\SerializeEmpList\SerializeEmpList\bin\Debug\SerializeEmpList.pdb
+D:\Learning Dotnet\Day 4\SerializeEmpList\SerializeEmpList\obj\Debug\SerializeEmpList.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 4\SerializeEmpList\SerializeEmpList\obj\Debug\SerializeEmpList.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 4\SerializeEmpList\SerializeEmpList\obj\Debug\SerializeEmpList.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 4\SerializeEmpList\SerializeEmpList\obj\Debug\SerializeEmpList.exe
+D:\Learning Dotnet\Day 4\SerializeEmpList\SerializeEmpList\obj\Debug\SerializeEmpList.pdb

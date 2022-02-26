@@ -1,0 +1,7 @@
+D:\Learning Dotnet\EvenSeries\EvenSeries\bin\Debug\EvenSeries.exe.config
+D:\Learning Dotnet\EvenSeries\EvenSeries\bin\Debug\EvenSeries.exe
+D:\Learning Dotnet\EvenSeries\EvenSeries\bin\Debug\EvenSeries.pdb
+D:\Learning Dotnet\EvenSeries\EvenSeries\obj\Debug\EvenSeries.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\EvenSeries\EvenSeries\obj\Debug\EvenSeries.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\EvenSeries\EvenSeries\obj\Debug\EvenSeries.exe
+D:\Learning Dotnet\EvenSeries\EvenSeries\obj\Debug\EvenSeries.pdb

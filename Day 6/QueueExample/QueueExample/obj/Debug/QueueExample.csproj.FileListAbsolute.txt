@@ -1,0 +1,7 @@
+D:\Learning Dotnet\Day 5\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+D:\Learning Dotnet\Day 5\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+D:\Learning Dotnet\Day 5\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+D:\Learning Dotnet\Day 5\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 5\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 5\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+D:\Learning Dotnet\Day 5\QueueExample\QueueExample\obj\Debug\QueueExample.pdb

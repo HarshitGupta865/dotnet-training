@@ -1,0 +1,7 @@
+D:\Learning Dotnet\Day 6\DelegateArray\DelegateArray\bin\Debug\DelegateArray.exe.config
+D:\Learning Dotnet\Day 6\DelegateArray\DelegateArray\bin\Debug\DelegateArray.exe
+D:\Learning Dotnet\Day 6\DelegateArray\DelegateArray\bin\Debug\DelegateArray.pdb
+D:\Learning Dotnet\Day 6\DelegateArray\DelegateArray\obj\Debug\DelegateArray.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 6\DelegateArray\DelegateArray\obj\Debug\DelegateArray.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 6\DelegateArray\DelegateArray\obj\Debug\DelegateArray.exe
+D:\Learning Dotnet\Day 6\DelegateArray\DelegateArray\obj\Debug\DelegateArray.pdb

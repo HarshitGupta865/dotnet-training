@@ -1,0 +1,8 @@
+D:\Learning Dotnet\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.exe.config
+D:\Learning Dotnet\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.exe
+D:\Learning Dotnet\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.pdb
+D:\Learning Dotnet\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.csproj.AssemblyReference.cache
+D:\Learning Dotnet\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.exe
+D:\Learning Dotnet\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.pdb

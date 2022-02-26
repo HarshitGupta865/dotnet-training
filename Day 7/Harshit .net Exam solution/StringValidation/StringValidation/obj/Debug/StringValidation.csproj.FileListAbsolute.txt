@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 5\StringValidation\StringValidation\bin\Debug\StringValidation.exe.config
+D:\Learning Dotnet\Day 5\StringValidation\StringValidation\bin\Debug\StringValidation.exe
+D:\Learning Dotnet\Day 5\StringValidation\StringValidation\bin\Debug\StringValidation.pdb
+D:\Learning Dotnet\Day 5\StringValidation\StringValidation\obj\Debug\StringValidation.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 5\StringValidation\StringValidation\obj\Debug\StringValidation.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 5\StringValidation\StringValidation\obj\Debug\StringValidation.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 5\StringValidation\StringValidation\obj\Debug\StringValidation.exe
+D:\Learning Dotnet\Day 5\StringValidation\StringValidation\obj\Debug\StringValidation.pdb

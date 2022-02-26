@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 2\ExtensionConcept2\ExtensionConcept2\bin\Debug\ExtensionConcept2.exe.config
+D:\Learning Dotnet\Day 2\ExtensionConcept2\ExtensionConcept2\bin\Debug\ExtensionConcept2.exe
+D:\Learning Dotnet\Day 2\ExtensionConcept2\ExtensionConcept2\bin\Debug\ExtensionConcept2.pdb
+D:\Learning Dotnet\Day 2\ExtensionConcept2\ExtensionConcept2\obj\Debug\ExtensionConcept2.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 2\ExtensionConcept2\ExtensionConcept2\obj\Debug\ExtensionConcept2.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 2\ExtensionConcept2\ExtensionConcept2\obj\Debug\ExtensionConcept2.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 2\ExtensionConcept2\ExtensionConcept2\obj\Debug\ExtensionConcept2.exe
+D:\Learning Dotnet\Day 2\ExtensionConcept2\ExtensionConcept2\obj\Debug\ExtensionConcept2.pdb

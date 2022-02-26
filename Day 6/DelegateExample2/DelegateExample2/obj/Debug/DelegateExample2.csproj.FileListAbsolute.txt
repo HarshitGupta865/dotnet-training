@@ -1,0 +1,7 @@
+D:\Learning Dotnet\Day 6\DelegateExample2\DelegateExample2\bin\Debug\DelegateExample2.exe.config
+D:\Learning Dotnet\Day 6\DelegateExample2\DelegateExample2\bin\Debug\DelegateExample2.exe
+D:\Learning Dotnet\Day 6\DelegateExample2\DelegateExample2\bin\Debug\DelegateExample2.pdb
+D:\Learning Dotnet\Day 6\DelegateExample2\DelegateExample2\obj\Debug\DelegateExample2.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 6\DelegateExample2\DelegateExample2\obj\Debug\DelegateExample2.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 6\DelegateExample2\DelegateExample2\obj\Debug\DelegateExample2.exe
+D:\Learning Dotnet\Day 6\DelegateExample2\DelegateExample2\obj\Debug\DelegateExample2.pdb

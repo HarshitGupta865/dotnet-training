@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 5\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+D:\Learning Dotnet\Day 5\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+D:\Learning Dotnet\Day 5\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\Learning Dotnet\Day 5\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 5\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 5\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 5\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+D:\Learning Dotnet\Day 5\FileHandling\FileHandling\obj\Debug\FileHandling.pdb

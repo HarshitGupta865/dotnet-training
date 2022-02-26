@@ -1,0 +1,7 @@
+D:\Learning Dotnet\Day 5\BooksExample\BooksExample\bin\Debug\BooksExample.exe.config
+D:\Learning Dotnet\Day 5\BooksExample\BooksExample\bin\Debug\BooksExample.exe
+D:\Learning Dotnet\Day 5\BooksExample\BooksExample\bin\Debug\BooksExample.pdb
+D:\Learning Dotnet\Day 5\BooksExample\BooksExample\obj\Debug\BooksExample.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 5\BooksExample\BooksExample\obj\Debug\BooksExample.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 5\BooksExample\BooksExample\obj\Debug\BooksExample.exe
+D:\Learning Dotnet\Day 5\BooksExample\BooksExample\obj\Debug\BooksExample.pdb

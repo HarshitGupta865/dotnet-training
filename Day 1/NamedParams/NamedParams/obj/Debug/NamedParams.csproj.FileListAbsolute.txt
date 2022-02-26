@@ -1,0 +1,7 @@
+D:\Learning Dotnet\NamedParams\NamedParams\bin\Debug\NamedParams.exe.config
+D:\Learning Dotnet\NamedParams\NamedParams\bin\Debug\NamedParams.exe
+D:\Learning Dotnet\NamedParams\NamedParams\bin\Debug\NamedParams.pdb
+D:\Learning Dotnet\NamedParams\NamedParams\obj\Debug\NamedParams.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\NamedParams\NamedParams\obj\Debug\NamedParams.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\NamedParams\NamedParams\obj\Debug\NamedParams.exe
+D:\Learning Dotnet\NamedParams\NamedParams\obj\Debug\NamedParams.pdb

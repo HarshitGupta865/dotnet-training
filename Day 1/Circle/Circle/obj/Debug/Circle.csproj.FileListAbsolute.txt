@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Circle\Circle\bin\Debug\Circle.exe.config
+D:\Learning Dotnet\Circle\Circle\bin\Debug\Circle.exe
+D:\Learning Dotnet\Circle\Circle\bin\Debug\Circle.pdb
+D:\Learning Dotnet\Circle\Circle\obj\Debug\Circle.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Circle\Circle\obj\Debug\Circle.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Circle\Circle\obj\Debug\Circle.exe
+D:\Learning Dotnet\Circle\Circle\obj\Debug\Circle.pdb

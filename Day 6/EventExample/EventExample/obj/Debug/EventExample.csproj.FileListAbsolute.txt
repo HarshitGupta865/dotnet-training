@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 6\EventExample\EventExample\bin\Debug\EventExample.exe.config
+D:\Learning Dotnet\Day 6\EventExample\EventExample\bin\Debug\EventExample.exe
+D:\Learning Dotnet\Day 6\EventExample\EventExample\bin\Debug\EventExample.pdb
+D:\Learning Dotnet\Day 6\EventExample\EventExample\obj\Debug\EventExample.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 6\EventExample\EventExample\obj\Debug\EventExample.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 6\EventExample\EventExample\obj\Debug\EventExample.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 6\EventExample\EventExample\obj\Debug\EventExample.exe
+D:\Learning Dotnet\Day 6\EventExample\EventExample\obj\Debug\EventExample.pdb

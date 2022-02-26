@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 3\ReadOnlyExample\ReadOnlyExample\bin\Debug\ReadOnlyExample.exe.config
+D:\Learning Dotnet\Day 3\ReadOnlyExample\ReadOnlyExample\bin\Debug\ReadOnlyExample.exe
+D:\Learning Dotnet\Day 3\ReadOnlyExample\ReadOnlyExample\bin\Debug\ReadOnlyExample.pdb
+D:\Learning Dotnet\Day 3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.exe
+D:\Learning Dotnet\Day 3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.pdb

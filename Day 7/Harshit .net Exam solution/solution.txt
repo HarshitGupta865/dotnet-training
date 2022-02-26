@@ -1,0 +1,65 @@
+Q1.) Explain various Access modifiers ?
+A1.) i) private : Allows you to access members within current class. 
+
+        ii) public : Allows you to access members in entire application.
+
+        iii) protected : Allows you to access members within current/derived class.
+
+        iv) internal : Allows you to access members within all classes of current namespace.
+
+        v) protected internal : Allows you to access members within all classes of current namspace
+            and other namespace derived classes.  
+
+
+Q2.) Write About Compiling and Execution procedure of .NET Application.
+A2.) Step-by-step process of C# code compilation:
+         i) Write a C# code.
+        ii) Compile the code using a C# compiler.
+        iii) Now compiler checks if the code contains an error or not. If no error is found then the compiler move to the next step. 
+        iv) After compilation the code is not directly converted into machine level language.For C#,
+	 the source code is converted to an intermediate code which is known as Common Intermediate Language (CIL).
+        v) After this the  virtual machine component known as Common Language Runtime (CLR) translates the CIL code to machine
+	 understandable code or machine instructions. This process is called Just-In-Time (JIT) Compilation.
+        vi) Once the C# programs are compiled, they’re physically packaged into Assemblies.
+	Assemblies typically have the file extension .exe or .dll.
+         vii)Now, the C# compiler returns the output of the given c# code.
+
+
+Q3.)Write about FileModes, StreamReader,StreamWriter classes in detail? Explain About BinaryReader and BinaryWriter classes also.
+A3.) Different FileMode in c# are:
+	i) Create : Used to create a new file, if the file exists, it overwrites the contents with new contents.
+
+	ii) CreateNew : Used to create a new file, if the file exists, it throws an exception.
+
+	iii) Open : Used to open existing file. 
+	
+	iv) OpenOrCreate : Used to open existing file, if the file does not exist, it creates a new file.
+
+	v) Append : Used to add the contents at the end of the file.
+
+	vi) Truncate : Used to delete the contents from the file.
+
+       StreamReader: Used for reading characters from a byte stream.
+       StreamWriter: Is used for writing characters to a stream.
+       BinaryReader: Reads primitive data from a binary stream.
+       BinaryWriter: Writes primitive data in binary format.
+
+
+Q4.) Write about Abstract classes and Interfaces.  Specify the Main Differences between interfaces and Abstract classes. 
+A4.) Abstract Classes - A class, which can be created, but not implemented and instantiated is known as an abstract class. Abstract class
+ 	contains both abstract and non-abstract methods but abstract methods needs to be overrided mandetorily by the derived class.
+
+        Interface - An interface contains method declaration and the implementation can be done in the corresponding class, 
+	you can add more than one interface to the particular class. 
+
+        Difference between interface and abstract classes:
+	i) Abstract class contains both declaration and definition part whereas contains only a declaration part.
+	ii) Multiple inheritance is not achieved by abstract class whereas multiple inheritance is achieved by interface.
+	iii) Abstract class  contain constructor whereas interface does not contain constructor.
+	iv) Abstract class can contain static members whereas interface does not contain static members.
+
+Q5) Assume we have a scenario, as Top level management class need not to be inherited to the subclasses.
+	 Give a mechanism as how to stop inheriting class? 
+A5) In C# you can use the sealed keyword in order to prevent a class from being inherited.
+
+

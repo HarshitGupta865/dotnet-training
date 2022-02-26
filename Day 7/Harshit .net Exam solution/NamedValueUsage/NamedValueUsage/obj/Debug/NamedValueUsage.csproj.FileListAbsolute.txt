@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 5\NamedValueUsage\NamedValueUsage\bin\Debug\NamedValueUsage.exe.config
+D:\Learning Dotnet\Day 5\NamedValueUsage\NamedValueUsage\bin\Debug\NamedValueUsage.exe
+D:\Learning Dotnet\Day 5\NamedValueUsage\NamedValueUsage\bin\Debug\NamedValueUsage.pdb
+D:\Learning Dotnet\Day 5\NamedValueUsage\NamedValueUsage\obj\Debug\NamedValueUsage.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 5\NamedValueUsage\NamedValueUsage\obj\Debug\NamedValueUsage.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 5\NamedValueUsage\NamedValueUsage\obj\Debug\NamedValueUsage.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 5\NamedValueUsage\NamedValueUsage\obj\Debug\NamedValueUsage.exe
+D:\Learning Dotnet\Day 5\NamedValueUsage\NamedValueUsage\obj\Debug\NamedValueUsage.pdb

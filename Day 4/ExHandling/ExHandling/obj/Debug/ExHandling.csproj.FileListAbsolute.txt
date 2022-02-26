@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 4\ExHandling\ExHandling\bin\Debug\ExHandling.exe.config
+D:\Learning Dotnet\Day 4\ExHandling\ExHandling\bin\Debug\ExHandling.exe
+D:\Learning Dotnet\Day 4\ExHandling\ExHandling\bin\Debug\ExHandling.pdb
+D:\Learning Dotnet\Day 4\ExHandling\ExHandling\obj\Debug\ExHandling.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 4\ExHandling\ExHandling\obj\Debug\ExHandling.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 4\ExHandling\ExHandling\obj\Debug\ExHandling.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 4\ExHandling\ExHandling\obj\Debug\ExHandling.exe
+D:\Learning Dotnet\Day 4\ExHandling\ExHandling\obj\Debug\ExHandling.pdb

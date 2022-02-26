@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 1\OutKeywordDemo\OutKeywordDemo\obj\Debug\OutKeywordDemo.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 1\OutKeywordDemo\OutKeywordDemo\obj\Debug\OutKeywordDemo.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 1\OutKeywordDemo\OutKeywordDemo\obj\Debug\OutKeywordDemo.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 1\OutKeywordDemo\OutKeywordDemo\bin\Debug\OutKeywordDemo.exe.config
+D:\Learning Dotnet\Day 1\OutKeywordDemo\OutKeywordDemo\bin\Debug\OutKeywordDemo.exe
+D:\Learning Dotnet\Day 1\OutKeywordDemo\OutKeywordDemo\bin\Debug\OutKeywordDemo.pdb
+D:\Learning Dotnet\Day 1\OutKeywordDemo\OutKeywordDemo\obj\Debug\OutKeywordDemo.exe
+D:\Learning Dotnet\Day 1\OutKeywordDemo\OutKeywordDemo\obj\Debug\OutKeywordDemo.pdb

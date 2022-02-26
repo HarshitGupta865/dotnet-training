@@ -1,0 +1,122 @@
+Collections : 
+
+Collections are dynamic data structures, that which allows you to add elements without specifying size. 
+
+Collections are falling from System.Collections namespace. 
+
+There are various collections as
+
+1) ArrayList
+
+	Conains the elements of any data type. 
+
+AraryList list = new ArrayList();
+
+2) Stack
+
+3) Queue
+
+4) HashTable
+
+Allows you to store data w.r.t. Key/value pairs, hashtable is immutable, so we dont have
+any duplicate keys. 
+
+5) Dictionary 
+
+What is drawback with collections :
+
+   -> We cannot provide security to data. 
+
+Generics : 
+
+Allows you to pass data types at runtime, If you want to write methods as write once and apply for all types, then we need the help of generics. 
+
+Generics will be provided by using <T> . means in place of <T> we can pass any type as value type or reference type or custom type. 
+
+	Advantages : 
+
+		1) Write Once and apply for all types
+
+		2) Provides security to the data
+
+		3) No Typecasting required
+
+		4) Reduces the size of the program. 
+
+
+
+Generics have features as CodeBloat, means it generates the code automatically in memory. 
+
+Example 
+
+ class Data<T>
+    {
+        public void Swap(ref T x, ref T y)
+        {
+            T t = x;
+            x = y;
+            y = t;
+        }
+    }
+
+ int x = 12, y = 13;
+            Data<int> obj = new Data<int>();
+            obj.Swap(ref x, ref y);
+
+We have above code, here in place of T in memory int comes and generates code as
+
+public void Swap(ref int a, ref int b) {
+...
+...
+}
+
+Delegates : 
+
+Delegates provides a way of define and execute callbacks. Their flexibility allows you to 
+define the exacgt signature of the callback, and that information becomes part of the 
+delegate type. It is similar to function pointers concept in c language. 
+
+
+Means, if you want to store the reference of a method, then we need the help of delegate. 
+
+Now, once you pass values to the delegate variable, the method which associated with 
+delegate object will be fired automatically. 
+
+  -> Delegates can point to static and non-static methods
+
+  -> They have signature and return type, but no business logic implemented
+
+  -> Delegate can call methods synchronously and asynchronously
+
+  -> Once delegate object created, it may dynamically invoke methods which points at runitm.e
+
+public delegate void DelegateName(string s);
+
+
+This delegate can contains methods, which have signature of single string parameter methods. 
+
+How to add a method to delegate 
+
+delegatate_name obj =new delegate_name(methodName);
+
+Types of Delegates : 
+_____________________
+
+There are 2 types of delegates known as 
+
+	(i) SingleCast Delegate : If one delegate contains only one method at a time, known as single cast delegate.
+
+	(ii) MultiCast Delegate : If one delegate contains more than one method at a time, known as multi-cast
+	delegate.
+
+
+
+
+
+
+
+
+
+
+
+
