@@ -10,13 +10,12 @@ namespace ExHandling
     {
         static void Main(string[] args)
         {
-            int c = 0;
             Console.WriteLine("Enter two number");
             try
             {
                 int a = Convert.ToInt32(Console.ReadLine());
                 int b = Convert.ToInt32(Console.ReadLine());
-                c = a / b;
+                int c = a / b;
                 Console.WriteLine(c);
             }
             catch (FormatException e)
