@@ -1,0 +1,8 @@
+D:\Learning Dotnet\DotnetADO\EmpAdoEx1\EmpAdoEx1\bin\Debug\EmpAdoEx1.exe.config
+D:\Learning Dotnet\DotnetADO\EmpAdoEx1\EmpAdoEx1\bin\Debug\EmpAdoEx1.exe
+D:\Learning Dotnet\DotnetADO\EmpAdoEx1\EmpAdoEx1\bin\Debug\EmpAdoEx1.pdb
+D:\Learning Dotnet\DotnetADO\EmpAdoEx1\EmpAdoEx1\obj\Debug\EmpAdoEx1.csproj.AssemblyReference.cache
+D:\Learning Dotnet\DotnetADO\EmpAdoEx1\EmpAdoEx1\obj\Debug\EmpAdoEx1.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\DotnetADO\EmpAdoEx1\EmpAdoEx1\obj\Debug\EmpAdoEx1.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\DotnetADO\EmpAdoEx1\EmpAdoEx1\obj\Debug\EmpAdoEx1.exe
+D:\Learning Dotnet\DotnetADO\EmpAdoEx1\EmpAdoEx1\obj\Debug\EmpAdoEx1.pdb

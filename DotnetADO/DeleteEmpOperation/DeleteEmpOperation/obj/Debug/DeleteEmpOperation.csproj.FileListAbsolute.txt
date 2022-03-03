@@ -1,0 +1,8 @@
+D:\Learning Dotnet\DotnetADO\DeleteEmpOperation\DeleteEmpOperation\bin\Debug\DeleteEmpOperation.exe.config
+D:\Learning Dotnet\DotnetADO\DeleteEmpOperation\DeleteEmpOperation\bin\Debug\DeleteEmpOperation.exe
+D:\Learning Dotnet\DotnetADO\DeleteEmpOperation\DeleteEmpOperation\bin\Debug\DeleteEmpOperation.pdb
+D:\Learning Dotnet\DotnetADO\DeleteEmpOperation\DeleteEmpOperation\obj\Debug\DeleteEmpOperation.csproj.AssemblyReference.cache
+D:\Learning Dotnet\DotnetADO\DeleteEmpOperation\DeleteEmpOperation\obj\Debug\DeleteEmpOperation.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\DotnetADO\DeleteEmpOperation\DeleteEmpOperation\obj\Debug\DeleteEmpOperation.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\DotnetADO\DeleteEmpOperation\DeleteEmpOperation\obj\Debug\DeleteEmpOperation.exe
+D:\Learning Dotnet\DotnetADO\DeleteEmpOperation\DeleteEmpOperation\obj\Debug\DeleteEmpOperation.pdb

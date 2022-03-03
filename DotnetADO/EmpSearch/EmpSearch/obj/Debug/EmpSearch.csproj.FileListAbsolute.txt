@@ -1,0 +1,7 @@
+D:\Learning Dotnet\DotnetADO\EmpSearch\EmpSearch\bin\Debug\EmpSearch.exe.config
+D:\Learning Dotnet\DotnetADO\EmpSearch\EmpSearch\bin\Debug\EmpSearch.exe
+D:\Learning Dotnet\DotnetADO\EmpSearch\EmpSearch\bin\Debug\EmpSearch.pdb
+D:\Learning Dotnet\DotnetADO\EmpSearch\EmpSearch\obj\Debug\EmpSearch.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\DotnetADO\EmpSearch\EmpSearch\obj\Debug\EmpSearch.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\DotnetADO\EmpSearch\EmpSearch\obj\Debug\EmpSearch.exe
+D:\Learning Dotnet\DotnetADO\EmpSearch\EmpSearch\obj\Debug\EmpSearch.pdb

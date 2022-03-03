@@ -1,0 +1,7 @@
+D:\Learning Dotnet\DotnetADO\EmpUpdateOperation\EmpUpdateOperation\bin\Debug\EmpUpdateOperation.exe.config
+D:\Learning Dotnet\DotnetADO\EmpUpdateOperation\EmpUpdateOperation\bin\Debug\EmpUpdateOperation.exe
+D:\Learning Dotnet\DotnetADO\EmpUpdateOperation\EmpUpdateOperation\bin\Debug\EmpUpdateOperation.pdb
+D:\Learning Dotnet\DotnetADO\EmpUpdateOperation\EmpUpdateOperation\obj\Debug\EmpUpdateOperation.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\DotnetADO\EmpUpdateOperation\EmpUpdateOperation\obj\Debug\EmpUpdateOperation.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\DotnetADO\EmpUpdateOperation\EmpUpdateOperation\obj\Debug\EmpUpdateOperation.exe
+D:\Learning Dotnet\DotnetADO\EmpUpdateOperation\EmpUpdateOperation\obj\Debug\EmpUpdateOperation.pdb

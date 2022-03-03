@@ -1,0 +1,7 @@
+D:\Learning Dotnet\DotnetADO\AddOperation\AddOperation\bin\Debug\AddOperation.exe.config
+D:\Learning Dotnet\DotnetADO\AddOperation\AddOperation\bin\Debug\AddOperation.exe
+D:\Learning Dotnet\DotnetADO\AddOperation\AddOperation\bin\Debug\AddOperation.pdb
+D:\Learning Dotnet\DotnetADO\AddOperation\AddOperation\obj\Debug\AddOperation.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\DotnetADO\AddOperation\AddOperation\obj\Debug\AddOperation.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\DotnetADO\AddOperation\AddOperation\obj\Debug\AddOperation.exe
+D:\Learning Dotnet\DotnetADO\AddOperation\AddOperation\obj\Debug\AddOperation.pdb
