@@ -55,6 +55,52 @@ If dataset lost in the middle, as soon as program runs, the dataset stores data 
 
 For everytime, the dataset maintains cache of data in above format, and even program terminates the dataset dat is still alive. 
 
+--------------------------------------------------------------------------------------
+STEPS TO FOLLOW TO CONNECT .NET TO SQL SERVER
+---------------------------------------------------------------------------------------
+
+Step 1 :
+-----------
+Create a .NET Console Application 
+
+Step 2 : 
+-----------
+You Need to add Reference of System.Configuration 
+Right-Click on Project -> Add Reference ->  Assemblies -> System.Configuration
+
+Step 3 : 
+-----------
+You need to write connectionString information in app.config file
+
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<connectionStrings>
+		<add name="sqlpracticeconn" connectionString="integrated security=true;data source=DESKTOP-1P9MIR5;initial catalog=sqlpractice;"/>
+	</connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+</configuration>
+
+Step 4 : 
+-------------
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
+
+Step 5
+----------
+static void Main(string[] args)
+        {
+            string strcon = ConfigurationManager.ConnectionStrings["sqlpracticeconn"].ConnectionString;
+            SqlConnection connection = new SqlConnection(strcon);
+            SqlDataAdapter ad = new SqlDataAdapter("select * from Emp", connection);
+            DataSet ds = new DataSet();
+            ad.Fill(ds, "EmpDummy");
+        }
+
+
+
 
 
 
