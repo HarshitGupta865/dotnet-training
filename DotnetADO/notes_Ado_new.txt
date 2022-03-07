@@ -75,11 +75,11 @@ You need to write connectionString information in app.config file
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
 	<connectionStrings>
-		<add name="sqlpracticeconn" connectionString="integrated security=true;data source=DESKTOP-1P9MIR5;initial catalog=sqlpractice;"/>
+		<add name="practicespconn" connectionString="integrated security=true;data source=LAPTOP-DSAGH22F;initial catalog=sqlpractice;"/>
 	</connectionStrings>
-    <startup> 
-        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
-    </startup>
+	<startup>
+		<supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+	</startup>
 </configuration>
 
 Step 4 : 

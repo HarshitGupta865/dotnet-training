@@ -1,0 +1,8 @@
+D:\Learning Dotnet\Day 11\Lambda Expression\Lambda Expression\bin\Debug\Lambda Expression.exe.config
+D:\Learning Dotnet\Day 11\Lambda Expression\Lambda Expression\bin\Debug\Lambda Expression.exe
+D:\Learning Dotnet\Day 11\Lambda Expression\Lambda Expression\bin\Debug\Lambda Expression.pdb
+D:\Learning Dotnet\Day 11\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.csproj.AssemblyReference.cache
+D:\Learning Dotnet\Day 11\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.csproj.SuggestedBindingRedirects.cache
+D:\Learning Dotnet\Day 11\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.csproj.CoreCompileInputs.cache
+D:\Learning Dotnet\Day 11\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.exe
+D:\Learning Dotnet\Day 11\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.pdb
