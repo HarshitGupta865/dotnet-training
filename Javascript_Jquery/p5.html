@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      function show() {
+        if (frmData.chkStatus.checked == true) {
+          document.getElementById('result').innerHTML = 'True';
+        } else {
+          document.getElementById('result').innerHTML = 'False';
+        }
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form name="frmData">
+      <center>
+        Status :
+        <input type="checkbox" name="chkStatus" onchange="show()" />
+        <br /><br />
+        <span id="result">False</span>
+      </center>
+    </form>
+  </body>
+</html>

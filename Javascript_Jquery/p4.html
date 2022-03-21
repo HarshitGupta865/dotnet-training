@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      function show() {
+        var sname = frmData.txtStudent.value;
+        //  alert("Student Name is  " + sname);
+        document.getElementById('result').innerHTML =
+          'Student Name is   ' + sname + '<br/>';
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form name="frmData">
+      <center>
+        Name :
+        <input type="text" name="txtStudent" /> <br /><br />
+        <input type="button" value="Show" onclick="show()" /> <br /><br />
+        <span id="result"></span>
+      </center>
+    </form>
+  </body>
+</html>

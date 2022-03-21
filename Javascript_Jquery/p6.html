@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      function show() {
+        var result = '';
+        if (frmAttendance.chkSrishti.checked == true) {
+          result += 'Srishti is Present...';
+        } else {
+          result += 'Srishti is Absent...';
+        }
+        if (frmAttendance.chkVarun.checked == true) {
+          result += 'Varun is Present...';
+        } else {
+          result += 'Varun is Absent...';
+        }
+        if (frmAttendance.chkHarshit.checked == true) {
+          result += 'Harshit is Present...';
+        } else {
+          result += 'Harshit is Absent...';
+        }
+        if (frmAttendance.chkSachin.checked == true) {
+          result += 'Sachin is Present...';
+        } else {
+          result += 'Sachin is Absent...';
+        }
+
+        document.getElementById('result').innerHTML = result;
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form name="frmAttendance">
+      <center>
+        <input type="checkbox" name="chkSrishti" onchange="show()" /> Srishti
+        <br />
+        <input type="checkbox" name="chkVarun" onchange="show()" /> Varun <br />
+        <input type="checkbox" name="chkHarshit" onchange="show()" />
+        Harshit<br />
+        <input type="checkbox" name="chkSachin" onchange="show()" /> Sachin
+        <br />
+        <hr />
+        <span id="result">Attendance</span>
+      </center>
+    </form>
+  </body>
+</html>

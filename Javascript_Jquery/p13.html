@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      function show() {
+        var str = 'Welcome to Javascript...From Capgemini dotnet Batch...';
+        var result = '';
+        result += 'Length of given String is  ' + str.length + '<br/>';
+        result += "First Occurrence of char 'o' " + str.indexOf('o') + '<br/>';
+        result += 'Char at 5th position  ' + str.charAt(5) + '<br/>';
+        result += 'Upper Case String  ' + str.toUpperCase() + '<br/>';
+        result += 'Lower Case String  ' + str.toLowerCase() + '<br/>';
+        result += 'Replaced String is  ' + str.replace('Javascript', 'Jquery');
+        document.getElementById('result').innerHTML = result;
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body onload="show()">
+    <span id="result"></span>
+  </body>
+</html>

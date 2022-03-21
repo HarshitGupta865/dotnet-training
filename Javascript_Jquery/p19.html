@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      var questions = [
+        '1. WWW Stands for',
+        '2. C Language Written By',
+        '3. HTTP Stands For',
+        '4. TCP/IP stands for',
+        '5. .NET is object oriented (Yes/No)',
+      ];
+      var questionNo = 0;
+      var count = questions.length;
+      function load() {
+        document.getElementById('question').innerHTML = questions[questionNo];
+      }
+      function next() {
+        questionNo++;
+        if (questionNo == count) {
+          alert('No More questions after this...');
+          questionNo = count - 1;
+        }
+        load();
+      }
+      function previous() {
+        questionNo--;
+        if (questionNo < 0) {
+          questionNo = 0;
+          alert('No Questions before this...');
+        }
+        load();
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body onload="load()">
+    <p id="question"></p>
+    <br /><br />
+    <input type="button" value="Next" onclick="next()" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="button" value="Previous" onclick="previous()" />
+  </body>
+</html>

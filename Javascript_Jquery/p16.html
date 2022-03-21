@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      function show() {
+        var today = new Date().toISOString().slice(0, 10);
+        frmLeaveForm.leaveAppliedOn.value = today;
+      }
+
+      function lstartValid() {
+        var leaveStartDate = frmLeaveForm.leaveStartDate.value;
+        var today = new Date();
+        var diffInMins = Date.parse(leaveStartDate) - Date.parse(today);
+        var days = diffInMins / (1000 * 60 * 60 * 24);
+        days++;
+        if (days <= 0) {
+          document.getElementById('err1').innerHTML =
+            'Leave StartDate cannot be yesterday...';
+          return;
+        } else {
+          document.getElementById('err1').innerHTML = '';
+        }
+      }
+
+      function tat() {
+        var leaveEndDate = frmLeaveForm.leaveEndDate.value;
+        var today = new Date();
+        var diffInMins = Date.parse(leaveEndDate) - Date.parse(today);
+        var sdays = diffInMins / (1000 * 60 * 60 * 24);
+        sdays++;
+        if (sdays <= 0) {
+          document.getElementById('err2').innerHTML =
+            'Leave EndDate cannot be yesterday...';
+          return;
+        } else {
+          document.getElementById('err2').innerHTML = '';
+        }
+        var leaveStartDate = frmLeaveForm.leaveStartDate.value;
+        var diffInMins = Date.parse(leaveEndDate) - Date.parse(leaveStartDate);
+        var days = diffInMins / (1000 * 60 * 60 * 24);
+        days++;
+        if (days <= 0) {
+          document.getElementById('err2').innerHTML =
+            'Leave StartDate cannot be Greater than leave End Date...';
+          return;
+        } else {
+          document.getElementById('err2').innerHTML = '';
+        }
+        frmLeaveForm.noOfDays.value = days;
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body onload="show()">
+    <form name="frmLeaveForm">
+      <table border="3" align="center">
+        <tr>
+          <th colspan="2">Leave Application Form</th>
+        </tr>
+        <tr>
+          <th>Employee Name</th>
+          <td>
+            <select name="employeeName">
+              <option value="Select Employ">Select Employ</option>
+              <option value="Yash Viswakarma">Yash</option>
+              <option value="Anubhav">Anubhav</option>
+              <option value="Navdeep">Navdeep</option>
+              <option value="Sakshi">Sakshi</option>
+              <option value="Himadri">Himadri</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th>Manager Name</th>
+          <td>
+            <select name="managerName">
+              <option value="Manager">Manager Name</option>
+              <option value="Raghu">Raghu</option>
+              <option value="Ram">Ram</option>
+              <option value="Girish">Girish</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th>Leave Start Date</th>
+          <td>
+            <input type="date" name="leaveStartDate" onblur="lstartValid()" />
+            <span id="err1" style="color: red"></span>
+          </td>
+        </tr>
+        <tr>
+          <th>Leave End Date</th>
+          <td>
+            <input type="date" name="leaveEndDate" onblur="tat()" />
+            <span id="err2" style="color: red"></span>
+          </td>
+        </tr>
+        <tr>
+          <th>No.Of Days</th>
+          <td>
+            <input type="number" name="noOfDays" />
+          </td>
+        </tr>
+        <tr>
+          <th>Leave Type</th>
+          <td>
+            <select name="leaveType">
+              <option value="EL">EL</option>
+              <option value="PL">PL</option>
+              <option value="ML">ML</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th>Leave Status</th>
+          <td>
+            <select name="leaveStatus">
+              <option value="PENDING">PENDING</option>
+              <option value="ACCEPTED">ACCEPTED</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th>Leave Applied On</th>
+          <td>
+            <input type="text" name="leaveAppliedOn" readonly />
+          </td>
+        </tr>
+        <tr>
+          <th>Manager Comments</th>
+          <td>
+            <input type="text" name="managerComments" />
+          </td>
+        </tr>
+        <tr>
+          <th colspan="2">
+            <input type="button" value="Submit" />
+          </th>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
